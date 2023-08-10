@@ -1,6 +1,6 @@
 # Interactive-quiz
 This is a Hogwarts House Sorting Quiz.
-This project lets you take a quiz to find out which Hogwarts house you belong to. Just like in the wizarding world, your answers to magical questions will determine if you're a Gryffindor, Hufflepuff, Ravenclaw, or Slytherin.
+This project lets you take a quiz to find out which Hogwarts house you belong to, and what are you possible strengths and weaknesses. Just like in the wizarding world, your answers to magical questions will determine if you're a Gryffindor, Hufflepuff, Ravenclaw, or Slytherin.
 ## How to Play
 1. Open the Python file named hogwarts_quiz.py in your favorite code editor or IDE.
 
@@ -8,7 +8,7 @@ This project lets you take a quiz to find out which Hogwarts house you belong to
 
 3. Each question represents different traits and choices. Your answers will help the quiz determine the house that matches your personality the best.
 
-4. After you answer all the questions, the quiz will tell you which Hogwarts house you belong to based on your answers.
+4. After you answer all the questions, the quiz will tell you which Hogwarts house you belong to, your strengths, and your weaknesses based on your answers.
 
 5. Enjoy the magical experience of being sorted into your house!
 ## Prerequisites
@@ -32,7 +32,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 3. Run the quiz by typing: python hogwarts_quiz.py and pressing Enter.
 
-4. Follow the on-screen instructions to answer the questions and find out your Hogwarts house.
+4. Follow the on-screen instructions to answer the questions and find out your Hogwarts house, your strengths, and your weaknesses.
 
 ## Customization
 
