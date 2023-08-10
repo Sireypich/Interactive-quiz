@@ -49,5 +49,6 @@ This Hogwarts House Sorting Quiz project was created for fun and educational pur
 Have a magical time sorting into your Hogwarts house! 🧙‍♂️🔮✨
 
 ## Contact
-Chhorn Sireypich - Sireypich.chhorn22@kit.edu.kh - @t.me/pichjjang
+Chhorn Sireypich - Sireypich.chhorn22@kit.edu.kh - telegram (http://t.me/pichjjang)
+
 Project link : https://github.com/Sireypich/Interactive-quiz/blob/main/project.py
