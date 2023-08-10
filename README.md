@@ -11,3 +11,6 @@ This project lets you take a quiz to find out which Hogwarts house you belong to
 4. After you answer all the questions, the quiz will tell you which Hogwarts house you belong to based on your answers.
 
 5. Enjoy the magical experience of being sorted into your house!
+## Prerequisites
+
+You'll need Python installed on your computer to play the quiz. If you don't have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
