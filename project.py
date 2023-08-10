@@ -32,7 +32,7 @@ def main():
         "a) Adventurous and daring\n"
         "b) Kind and loyal\n"
         "c) Intelligent and creative\n"
-        "d) Ambitious and resourceful\n",
+        "d) Ambitious and resourceful\n"
     ]
 
     house_scores = {
