@@ -42,6 +42,14 @@ def main():
         "Slytherin": 0
     }
 
+    house_descriptions = {
+        "Gryffindor": "Your strengths: Brave, chivalrous, daring, courageous, and confident." + "\n" "Your weaknesses: Can be reckless, impulsive, and prone to acting without thinking.",
+        "Hufflepuff": "Your strengths: Loyal, honest, hardworking, patient, and fair-minded." + "\n" "Can be overly trusting, and may struggle with assertiveness or taking risks.",
+        "Ravenclaw": "Your strengths: Intelligent, curious, creative, and witty." + "\n" "Your weaknesses: May struggle with social skills or emotional intelligence, and can be prone to overthinking or intellectualizing emotions.",
+        "Slytherin": "Your strengths: Ambitious, resourceful, cunning, and determined." + "\n" "Your weaknesses: Can be manipulative, self-serving, and may struggle with empathy or cooperation.",
+    }
+
+
     for i, question in enumerate(questions, start=1):
         print(question)
         answer = input("Your choice (a/b/c/d): ").lower()
@@ -66,7 +74,7 @@ def main():
         result = max_houses[0]
     
     print("\nSorting complete! Based on your answers, you belong to:")
-    print(result)
+    print(result + "\n" + house_descriptions[result])
 
 if __name__ == "__main__":
     main()
