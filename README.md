@@ -47,3 +47,7 @@ This project was inspired by the magical world of Harry Potter created by J.K. R
 This Hogwarts House Sorting Quiz project was created for fun and educational purposes. It's a great way to practice Python programming and have some magical fun along the way.
 
 Have a magical time sorting into your Hogwarts house! 🧙‍♂️🔮✨
+
+## Contact
+Chhorn Sireypich - Sireypich.chhorn22@kit.edu.kh - t.me/pichjjang
+Project link : https://github.com/Sireypich/Interactive-quiz/blob/main/project.py
